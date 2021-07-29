@@ -1,6 +1,6 @@
-# Frontend Mentor - Huddle landing page with single introductory section
+# Frontend Mentor - Huddle landing page
 
-![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
+![Design preview for the Huddle landing page](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -19,8 +19,8 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Here](https://github.com/zimzika/huddle-landing-page-with-single-introductory-section)
-- Live Site URL: [Here](https://zimzika.github.io/huddle-landing-page-with-single-introductory-section/)
+- Solution URL: [Here](https://github.com/zimzika/huddle-landing-page)
+- Live Site URL: [Here](https://zimzika.github.io/huddle-landing-page/)
 
 ## Author
 
