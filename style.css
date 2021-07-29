@@ -16,7 +16,7 @@ body {
     display: flex;
     min-width: 100vw;
     min-height: 100vh;
-    background: url(/images/bg-desktop.svg);
+    background: url(https://raw.githubusercontent.com/zimzika/huddle-landing-page-with-single-introductory-section/master/images/bg-desktop.svg?token=AODCJFDPKKCIC5S54FNMOFTBAIA2W);
     background-position: center center;
     background-repeat: no-repeat;
     background-clip: border-box;
@@ -145,7 +145,7 @@ footer .icons i:hover {
 
 @media screen and (max-width: 870px) {
     body {
-        background: url(/images/bg-mobile.svg);
+        background: url(https://raw.githubusercontent.com/zimzika/huddle-landing-page-with-single-introductory-section/master/images/bg-mobile.svg?token=AODCJFGMZP5KGRDVBR35DH3BAIA5M);
         background-position: center center;
         background-repeat: no-repeat;
         background-clip: border-box;

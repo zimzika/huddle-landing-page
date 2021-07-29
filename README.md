@@ -19,8 +19,8 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Here](https://github.com/zimzika/3-column-preview-card-component)
-- Live Site URL: [Here](https://zimzika.github.io/3-column-preview-card-component/)
+- Solution URL: [Here](https://github.com/zimzika/huddle-landing-page-with-single-introductory-section)
+- Live Site URL: [Here](https://zimzika.github.io/huddle-landing-page-with-single-introductory-section/)
 
 ## Author
 
